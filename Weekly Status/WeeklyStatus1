@@ -1,0 +1,39 @@
+Project Name: Graph Editor
+
+Mentor's Name:  Torbjörn Fridensköld 
+
+Report relates to Week (Number): 37
+
+How many hours have you worked on the project this week (work related to the project)? 18 hrs
+
+List down the project-related activities carried out this week, along with the hour(s) spent on each activity.
+- Preparing customer meeting questions based on Artefact 01 contents (2 hrs)
+
+- Customer meeting and requirement clarification (1 hr)
+
+- Finalizing Artefact 01 based on customer input (5 hrs)
+
+- Attending mentor meeting (1 hr)
+
+- Learning and experimenting with D3.js in JavaScript and setting up Next.js (8 hrs)
+
+Writing the weekly status report (1 hr)
+
+What project-related activities have you planned for next week?
+- Start implementing feature 1 + a litle of feature 2.
+- Test and validate features incrementally.
+- Update the backlog table
+- Preparing mentor meeting
+- Join the mentor meeting
+- Finalize Artefact 01 and weekly status report
+
+
+Did you face any impediments/challenges that have affected your project-related work? Please list them
+- I only know a little JavaScript from another course that was mostly about databases. I have never used a visual graph editor before, so I don’t know much about it.
+- The project is really big for one person. There are many features to learn and do, and time is limited. I am not sure which features are most important for the first demo (MVP). The customer and the mentor gav me some recommendation but the requirement of customer is not really clear. He is very nice customer that only need us to try our best to handler, if not, it's ok for him with a bit on every lines in his requirement, not such a clearly firgure on that. .
+
+What is your action plan to overcome impediments/challenges?
+- Make a most clear plan as I can and do tasks step by step, one at a time.
+- Stay calm and focus on the most important features for the first demo.
+- Spend time learning D3.js, next.js, neo4J... and try small examples before building full features.
+- Ask the mentor or use resources if something is unclear or difficult.
