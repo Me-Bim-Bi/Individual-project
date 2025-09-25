@@ -88,6 +88,11 @@
 - redux: npm install @reduxjs/toolkit
 - react-redux: npm install react-redux
 
+- npm i
+- npm i -Dvitest
+- Add to package.json:  
+    "test": "vitest",
+    "test:ui": "vitest --ui"
 
 
 #### Week 39:
@@ -96,7 +101,25 @@
     - (npm install)
     - d3 library: npm install d3
     - type definitions for d3: npm install --save-dev @types/d3
-    
+    - git: brew install git
 - Edit the layout.tsx with the name of website
 - Create components: force-direct, hierachy
-- Create 
+- Create ... many things
+- Write test for US1-4 in sprint 1
+
+
+
+
+
+=====================
+# FOR "READ ME" DOCUMENT
+
+## This is a Graph Editor app built with the following technologies and libraries
+- Next.js (framwork)
+- Typescpript
+- Tailwind
+- RadixUI
+- React 
+- Redux
+- Auth0
+- Vitest
