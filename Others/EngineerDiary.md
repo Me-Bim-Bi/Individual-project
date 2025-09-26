@@ -87,12 +87,8 @@
 - run file: npm run dev
 - redux: npm install @reduxjs/toolkit
 - react-redux: npm install react-redux
-
-- npm i
-- npm i -Dvitest
 - Add to package.json:  
-    "test": "vitest",
-    "test:ui": "vitest --ui"
+
 
 
 #### Week 39:
@@ -101,11 +97,25 @@
     - (npm install)
     - d3 library: npm install d3
     - type definitions for d3: npm install --save-dev @types/d3
-    - git: brew install git
+    - Cytoscapde: npm install cytoscape
 - Edit the layout.tsx with the name of website
 - Create components: force-direct, hierachy
 - Create ... many things
 - Write test for US1-4 in sprint 1
+
+
+Version 2: với hierarchy có thể có nhưng node không có parent, khi đó chúng sẽ được vẽ ở phía cao nhất. 
+Co cụm để với graph lớn thì vẫn nhìn thấy, không bị tràn ngoài màn hình
+
+
+#### Week 40:
+-  Preview section: 
+    - what have you done so far: show scrum board
+    - show your updated plan etc..: show scum board 
+    - and also see what have learnt so far: use jira, language, know about some academic word such as DoD, HoD, how to write a backlog, take MVP (Minimum viable product) from customer's requirement
+
+
+
 
 
 
@@ -123,3 +133,22 @@
 - Redux
 - Auth0
 - Vitest
+
+
+- show the value node
+- upload and create a new file at the same time
+- match the type
+- search or something like this inside something have relationship to node (teach Lily....)
+- select type automaticly
+- show the error when you import file
+- change colour of a node
+- value with hierarchy is realation and with force direct is value
+- manuel drag is mandatory
+
+
+- need or not hierarchy have 2 root
+
+- check neo4J have position for the node
+
+- undo and redo have 2 stack to do this
+zoomGroup
